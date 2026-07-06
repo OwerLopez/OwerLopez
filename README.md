@@ -11,7 +11,7 @@
         🚀 Systems Engineering student (9th semester, <b>UNSA</b>) building <b>production-grade backends and data solutions</b>. I ship REST APIs with <b>Java 17 / Spring Boot</b> and <b>NestJS</b>, engineer data with <b>advanced SQL and Python (pandas)</b>, and embed <b>machine learning where the data lives</b> — like cutting inference latency <b>from 2000ms to 20ms (−99%)</b> with ONNX Runtime inside the JVM at <b>96% recall</b>.
       </p>
       <p>
-        🏆 2× first place (NEXIA "Build with AI" 2026 · UNSA Project Fair 2024) · 📜 <b>51 certifications</b> (Oracle, AWS, Google Cloud, Alura) · 🎓 Top 20% of my cohort.
+        🏆 2× first place (NEXIA "Build with AI" 2026 · UNSA Project Fair 2024) · 📜 <b><a href="https://www.credly.com/users/ower-frank-lopez-arela">51 certifications</a></b> (Oracle, AWS, Google Cloud, Alura — verified on Credly) · 🎓 Top 20% of my cohort.
       </p>
       <div>
         <img src="https://img.shields.io/badge/Focus-Data%20Engineering-2b5cff?style=for-the-badge" />
@@ -196,11 +196,14 @@
 <a href="https://owerlopez.dev" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-owerlopez.dev-2b5cff?style=for-the-badge&logo=vercel&logoColor=white" style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.credly.com/users/ower-frank-lopez-arela" target="_blank">
+<img src="https://img.shields.io/badge/Credly-51%20verified%20badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" style="margin-bottom: 5px;" />
+</a>
 <br/><br/>
 <a href="mailto:owerfrank2004@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/ower-frank-lopez-arela-29558a285/" target="_blank">
+<a href="https://www.linkedin.com/in/owerfrank-data/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/OwerLopez" target="_blank">
